@@ -5,4 +5,7 @@ The **CSV zonal statistics**-folder contains all outputs from the zonal greennes
 The folder **Case study** contains results from the zonal greenness in the case studies and weather datasets obtained from Varsom-XGEO.
 The **JupyterNotebooks** folder contains the main scripts from the analysis part, utilizing all CSV files in the other folders.
 
+
+TIF files of RGB-change detection images and shapefiles of zones/detections can be found on [zenodo.org](https://zenodo.org/record/8009708).
+
 #TODO: ADD DOI when available!
