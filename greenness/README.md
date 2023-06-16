@@ -8,4 +8,7 @@ The **JupyterNotebooks** folder contains the main scripts from the analysis part
 
 TIF files of RGB-change detection images and shapefiles of zones/detections can be found on [zenodo.org](https://zenodo.org/record/8009708).
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8009708.svg)](https://doi.org/10.5281/zenodo.8009708)
+
 #TODO: ADD DOI when available!
